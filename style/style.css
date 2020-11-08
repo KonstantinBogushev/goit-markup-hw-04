@@ -84,7 +84,7 @@ img {
   text-decoration: none;
   font-weight: bold;
   font-family: Raleway;
-  margin-bottom: 20px;
+  margin-bottom: 21px;
   line-height: normal;
 }
 
@@ -233,7 +233,7 @@ img {
 .section-three-h {
   font-weight: bold;
   font-size: 36px;
-  line-height: 1.166;
+  line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--black);
@@ -269,7 +269,7 @@ img {
 .comand-name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.187;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--black);
@@ -280,7 +280,7 @@ img {
 
 .comand-prof {
   font-size: 16px;
-  line-height: 1.187;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--gray);
@@ -297,7 +297,7 @@ img {
 
 .contacts-adress {
   font-size: 14px;
-  line-height: 1.714;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   color: var(--white);
 
@@ -307,7 +307,7 @@ img {
 
 .contacts-footer {
   font-size: 14px;
-  line-height: 1.714;
+  line-height: 1.5;
   letter-spacing: 0.03em;
   color: var(--adress-footer);
 
