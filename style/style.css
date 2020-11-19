@@ -373,6 +373,11 @@ img {
   border-radius: 44px;
 }
 
+.social-link:hover .comand-svg,
+.social-link:focus .comand-svg {
+  fill: var(--white);
+}
+
 .client {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -450,6 +455,9 @@ img {
   width: 220px;
 }
 
+.footer-svg {
+  fill: var(--white);
+}
 .portfolio-btn {
   display: flex;
   background-color: var(--bcg-btn);
